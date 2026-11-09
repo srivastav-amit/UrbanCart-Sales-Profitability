@@ -1,0 +1,39 @@
+{
+  "synthetic": true,
+  "checks": "Passed: unique keys, foreign keys, line revenue/profit equations, return reconciliation",
+  "rows": {
+    "States": 8,
+    "Categories": 3,
+    "Products": 45,
+    "Customers": 1600,
+    "Calendar": 731,
+    "Months": 24,
+    "Sales": 9827,
+    "Returns": 788,
+    "Targets": 576
+  },
+  "yearly": {
+    "2024": {
+      "Orders": 2629,
+      "Lines": 4409,
+      "NetSales": 19643818.09,
+      "ContributionProfit": 3363062.96,
+      "Margin": 17.12,
+      "AOV": 7471.97,
+      "Units": 7379,
+      "ReturnedUnits": 511,
+      "SalesTarget": 20171000
+    },
+    "2025": {
+      "Orders": 3250,
+      "Lines": 5418,
+      "NetSales": 24482172.34,
+      "ContributionProfit": 4230083.64,
+      "Margin": 17.28,
+      "AOV": 7532.98,
+      "Units": 9029,
+      "ReturnedUnits": 549,
+      "SalesTarget": 24606200
+    }
+  }
+}
